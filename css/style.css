@@ -1,0 +1,24 @@
+.l1 {
+  background:linear-gradient(to bottom, #DEDDFA,#DAB8F3 );
+
+}
+.n1{
+  background-color: #333333;
+}
+h1 {
+  color: blue;
+  text-shadow: 2px 2px white;
+}
+p {
+  color: green;}
+
+div{
+  border: 1px solid blue;
+  padding:15px;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px blue;
+}
